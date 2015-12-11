@@ -1,7 +1,7 @@
 name: IS
 favicon: null
-layout_spectrum: 0.4809426385909319
-typography_spectrum: 0.3720316248945892
+layout_spectrum: 0.30494
+typography_spectrum: 0.43272
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.13845347240567207
-  lightness: 0.8725490211509168
-  saturation: 0.02296280930750072
-  rhythmicContrast: 0.594366731820628
+  brandStrength: 0.125
+  lightness: 0.875
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
