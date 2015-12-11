@@ -1,0 +1,28 @@
+name: IS
+favicon: null
+layout_spectrum: 0.4809426385909319
+typography_spectrum: 0.3720316248945892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.13845347240567207
+  lightness: 0.8725490211509168
+  saturation: 0.02296280930750072
+  rhythmicContrast: 0.594366731820628
+purpose: []
