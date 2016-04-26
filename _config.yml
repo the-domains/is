@@ -10,9 +10,9 @@ color:
   lightness: 0.5106383
   rhythmicContrast: 0.4680851
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 collections:
   - index:
       navigable: true
@@ -26,9 +26,9 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  version: null
   bucket: null
+  version: null
+  domain: null
 favicon: null
 layout_spectrum: 0.2829787
 purpose: []
