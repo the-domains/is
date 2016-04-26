@@ -1,15 +1,18 @@
-layout_spectrum: 0.2829787
-favicon: null
-name: IS
-purpose: []
+color:
+  brandStrength: 1
+  saturation: 0.2744681
+  brandColors:
+    - '#F4F3F0'
+    - '#EAB698'
+    - '#1F211F'
+    - '#A499A2'
+    - '#776D6F'
+  lightness: 0.5106383
+  rhythmicContrast: 0.4680851
 analytics:
-  twitter: null
-  google: null
   facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -23,18 +26,15 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-color:
-  brandStrength: 1
-  lightness: 0.5106383
-  saturation: 0.2744681
-  rhythmicContrast: 0.4680851
-  brandColors:
-    - '#F4F3F0'
-    - '#EAB698'
-    - '#1F211F'
-    - '#A499A2'
-    - '#776D6F'
+favicon: null
+layout_spectrum: 0.2829787
+purpose: []
+name: IS
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.5212766
